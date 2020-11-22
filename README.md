@@ -6,4 +6,4 @@ c# game
 #Members
 Lê Trung Long
 Võ Công Phúc
-Hoàng Tiến Phuc1
+Hoàng Tiến Phúc
